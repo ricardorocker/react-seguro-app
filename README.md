@@ -1,0 +1,1 @@
+# react-seguro-app
